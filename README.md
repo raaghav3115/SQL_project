@@ -9,7 +9,7 @@ where 📈 high demand meets high salary in data
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand
 skills, streamlining others work to find optimal jobs.
-Data hails from my [SQL Course](https://lukebarouse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
+Data hails from a course I have followed, by Luke Barouse [SQL Course](https://lukebarouse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
 ### The questions I wanted to answer through my SQL queries :
 1. What are the top-paying data analyst jobs?
